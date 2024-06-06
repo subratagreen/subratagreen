@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @subratagreen
 - 👀 I’m interested in java, microservices and camunda dev
-- 🌱 I’m currently learning camunda
 - 💞️ I’m looking to collaborate on camunda pluggins
 - 📫 How to reach me - subratagreen@gmail.com
 
